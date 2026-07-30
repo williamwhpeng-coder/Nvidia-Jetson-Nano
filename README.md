@@ -11,7 +11,6 @@ This is a computer vision project that uses the Jetson Orin Nano and a connected
 1. Ssh into Orin
 2. Download{https://www.kaggle.com/datasets/danrasband/asl-alphabet-test?select=D}this dataset off of Kaggle using this command
 path = kagglehub.dataset_download("grassknoted/asl-alphabet")
-
 print("Path to dataset files:", path)
 3. File must be converted to from Pytoarch to Onnex 
 4. This dataset has around 3000 photos per letter of the alphabet in the train folder, but does not come with a val folder so create a val folder and start moving roughly 300 photos from train to val
