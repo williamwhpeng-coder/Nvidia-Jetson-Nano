@@ -1,6 +1,6 @@
 # American Sign Language Alphabet Translator
 
-This is a computer vision project that uses the Jetson Orin Nano and a connected webcam that allows detects the different letters that the users hand shapes and translates them back. This project works better in a light colored, solid background. 
+This is a computer vision project that uses the Jetson Orin Nano and a connected webcam that allows detects the different letters that the users hand shapes and translates them back. This project works better in a light colored, solid background. I picked this project because I thought that communication with deaf people is hard without learning sign language, so this bot could help people understand without needing to learn it.
 
 <img width="484" height="375" alt="Screenshot 2026-07-29 165158" src="https://github.com/user-attachments/assets/64eee718-7e9a-424f-905b-28ef714157cb" />
 <img width="484" height="375" alt="Screenshot 2026-07-29 165227" src="https://github.com/user-attachments/assets/df0cb495-2248-4bae-a893-5dad5ff4b44a" />
